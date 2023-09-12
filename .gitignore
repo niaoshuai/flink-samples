@@ -1,5 +1,10 @@
-
+# idea
+*.iml
 .idea/
+# maven
 target/
-
+# gradle
+build/
+.gradle/
+# mac
 .DS_Store
